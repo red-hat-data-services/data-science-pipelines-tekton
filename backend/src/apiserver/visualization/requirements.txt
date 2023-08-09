@@ -56,7 +56,7 @@ google-resumable-media==1.3.3  # via google-cloud-bigquery
 googleapis-common-protos[grpc]==1.54.0  # via google-api-core, grpc-google-iam-v1, tensorflow-metadata
 grpc-google-iam-v1==0.12.3  # via google-cloud-bigtable, google-cloud-pubsub, google-cloud-spanner
 grpcio-gcp==0.2.2         # via apache-beam, google-api-core
-grpcio==1.34.1            # via apache-beam, google-api-core, googleapis-common-protos, grpc-google-iam-v1, grpcio-gcp, tensorboard, tensorflow, tensorflow-serving-api
+grpcio==1.53.2            # via apache-beam, google-api-core, googleapis-common-protos, grpc-google-iam-v1, grpcio-gcp, tensorboard, tensorflow, tensorflow-serving-api
 h5py==3.1.0               # via tensorflow
 hdfs==2.6.0               # via apache-beam
 httplib2==0.19.1          # via apache-beam, google-api-python-client, google-apitools, google-auth-httplib2, oauth2client
