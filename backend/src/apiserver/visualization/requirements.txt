@@ -125,7 +125,7 @@ termcolor==1.1.0          # via tensorflow
 terminado==0.12.1         # via notebook
 testpath==0.5.0           # via nbconvert
 tfx-bsl==1.2.0            # via tensorflow-data-validation, tensorflow-model-analysis
-tornado==6.1              # via -r -, bokeh, ipykernel, jupyter-client, notebook, terminado
+tornado==6.3.3              # via -r -, bokeh, ipykernel, jupyter-client, notebook, terminado
 traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, jupyter-core, nbconvert, nbformat, notebook
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, libcst, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
