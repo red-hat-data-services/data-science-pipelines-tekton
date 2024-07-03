@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Generate client code (go & json) from API protocol buffers
-FROM golang:1.21.0 as generator
+FROM golang:1.21.12 as generator
 ENV GRPC_GATEWAY_VERSION v1.9.0
 ENV GO_SWAGGER_VERSION v0.18.0
 ENV GOLANG_PROTOBUF_VERSION v1.5.1
