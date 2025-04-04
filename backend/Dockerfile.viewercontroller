@@ -29,7 +29,7 @@ RUN GO111MODULE=on go build -o /bin/controller backend/src/crd/controller/viewer
 #     diff /tmp/licenses.csv backend/third_party_licenses/viewer.csv && \
 #     go-licenses save ./backend/src/crd/controller/viewer --save_path /tmp/NOTICES
 
-FROM alpine
+FROM alpine:3.18.3
 WORKDIR /bin
 
 COPY --from=builder /bin/controller /bin/controller
