@@ -3,7 +3,7 @@
   "main": "server.js",
   "dependencies": {
     "@google-cloud/storage": "^2.5.0",
-    "@kubernetes/client-node": "^0.8.2",
+    "@kubernetes/client-node": "^0.18.1",
     "axios": ">=0.21.1",
     "crypto-js": "^3.1.8",
     "express": "^4.16.3",
