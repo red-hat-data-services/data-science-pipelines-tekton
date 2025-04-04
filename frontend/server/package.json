@@ -2,7 +2,7 @@
   "description": "Frontend webserver package for Data Science Pipelines",
   "main": "server.js",
   "dependencies": {
-    "@google-cloud/storage": "^2.5.0",
+    "@google-cloud/storage": "^3.0.0",
     "@kubernetes/client-node": "^0.8.2",
     "axios": ">=0.21.1",
     "crypto-js": "^3.1.8",
