@@ -31,7 +31,8 @@ spec:
   - name: path-context
     value: .
   - name: prefetch-input
-    value: '{"type": "pip", "path": "backend/artifact_manager", "requirements_files": ["requirements.txt", "requirements.in", "requirements-build.in", "requirements-build.txt"]}'
+    value: '{"type": "pip", "path": "backend/artifact_manager", "requirements_files":
+      ["requirements.txt", "requirements.in", "requirements-build.in", "requirements-build.txt"]}'
   pipelineSpec:
     description: |
       This pipeline is ideal for building container images from a Containerfile while maintaining trust after pipeline customization.
@@ -578,7 +579,8 @@ spec:
       optional: true
     - name: netrc
       optional: true
-  taskRunTemplate: {}
+  taskRunTemplate:
+    serviceAccountName: build-pipeline-odh-ml-pipelines-artifact-manager-v2-13
   workspaces:
   - name: git-auth
     secret:
