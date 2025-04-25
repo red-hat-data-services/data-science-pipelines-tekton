@@ -577,7 +577,8 @@ spec:
       optional: true
     - name: netrc
       optional: true
-  taskRunTemplate: {}
+  taskRunTemplate:
+    serviceAccountName: build-pipeline-odh-ml-pipelines-api-server-v2-13
   workspaces:
   - name: git-auth
     secret:
