@@ -83,7 +83,7 @@ mypy-extensions==0.4.3    # via typing-inspect
 nbconvert==5.5.0          # via -r -, notebook
 nbformat==4.4.0           # via -r -, ipywidgets, nbconvert, notebook
 nest-asyncio==1.5.4       # via notebook
-notebook==6.4.6           # via widgetsnbextension
+notebook==6.4.12           # via widgetsnbextension
 numpy==1.19.5             # via apache-beam, bokeh, h5py, keras-preprocessing, opt-einsum, pandas, pyarrow, scikit-learn, scipy, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
 oauth2client==4.1.3       # via apache-beam, google-apitools
 oauthlib==3.1.1           # via requests-oauthlib
