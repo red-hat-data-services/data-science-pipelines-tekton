@@ -84,7 +84,7 @@ jupyterlab-pygments==0.1.2  # via nbconvert
 jupyterlab-widgets==1.0.2  # via ipywidgets
 keras-preprocessing==1.1.2  # via tensorflow
 keras-tuner==1.1.0        # via tfx
-keras==2.6.0              # via tensorflow
+keras==3.15.0              # via tensorflow
 kfp-pipeline-spec==0.1.13  # via kfp
 kfp-server-api==1.7.1     # via kfp
 kfp==1.8.10               # via -r -
