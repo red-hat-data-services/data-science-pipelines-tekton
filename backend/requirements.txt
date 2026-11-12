@@ -118,7 +118,7 @@ portpicker==1.5.0         # via ml-pipelines-sdk, tfx
 prometheus-client==0.12.0  # via notebook
 prompt-toolkit==3.0.24    # via ipython
 proto-plus==1.19.8        # via google-cloud-aiplatform, google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-recommendations-ai
-protobuf==3.19.1          # via apache-beam, google-api-core, google-cloud-bigquery, google-cloud-storage, googleapis-common-protos, kfp, kfp-pipeline-spec, ml-metadata, ml-pipelines-sdk, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-hub, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tensorflow-transform, tfx, tfx-bsl
+protobuf==5.29.6          # via apache-beam, google-api-core, google-cloud-bigquery, google-cloud-storage, googleapis-common-protos, kfp, kfp-pipeline-spec, ml-metadata, ml-pipelines-sdk, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-hub, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tensorflow-transform, tfx, tfx-bsl
 psutil==5.8.0             # via portpicker
 ptyprocess==0.7.0         # via pexpect, terminado
 pyarrow==5.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tensorflow-transform, tfx, tfx-bsl
