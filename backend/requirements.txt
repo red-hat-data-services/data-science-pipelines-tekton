@@ -94,7 +94,7 @@ libcst==0.3.23            # via google-cloud-bigquery-storage
 markdown==3.3.6           # via tensorboard
 markupsafe==2.0.1         # via jinja2
 matplotlib-inline==0.1.3  # via ipykernel, ipython
-mistune==0.8.4            # via nbconvert
+mistune==3.3.0            # via nbconvert
 ml-metadata==1.4.0        # via ml-pipelines-sdk, tfx
 ml-pipelines-sdk==1.4.0   # via tfx
 mypy-extensions==0.4.3    # via typing-inspect
