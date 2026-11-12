@@ -99,7 +99,7 @@ ml-metadata==1.4.0        # via ml-pipelines-sdk, tfx
 ml-pipelines-sdk==1.4.0   # via tfx
 mypy-extensions==0.4.3    # via typing-inspect
 nbclient==0.5.9           # via nbconvert
-nbconvert==6.3.0          # via notebook
+nbconvert==7.17.2          # via notebook
 nbformat==5.1.3           # via ipywidgets, nbclient, nbconvert, notebook
 nest-asyncio==1.5.4       # via jupyter-client, nbclient, notebook
 notebook==6.4.6           # via widgetsnbextension
