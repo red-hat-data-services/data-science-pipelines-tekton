@@ -13,7 +13,7 @@ attrs==21.2.0             # via jsonschema
 avro-python3==1.9.2.1     # via apache-beam
 backcall==0.2.0           # via ipython
 bleach==4.1.0             # via nbconvert
-bokeh==1.2.0              # via -r -
+bokeh==3.8.2              # via -r -
 cached-property==1.5.2    # via h5py
 cachetools==4.2.4         # via apache-beam, google-auth
 certifi==2021.10.8        # via requests
