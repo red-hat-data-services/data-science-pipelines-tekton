@@ -130,7 +130,7 @@ traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, 
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, libcst, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
 uritemplate==3.0.1        # via google-api-python-client
-urllib3==1.26.7           # via requests
+urllib3==2.8.0           # via requests
 wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 werkzeug==2.0.2           # via tensorboard
