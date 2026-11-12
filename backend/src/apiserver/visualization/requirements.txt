@@ -29,7 +29,7 @@ entrypoints==0.3          # via nbconvert
 fastavro==1.4.7           # via apache-beam
 fasteners==0.16.3         # via google-apitools
 flatbuffers==1.12         # via tensorflow
-future==0.18.2            # via apache-beam
+future==0.18.3            # via apache-beam
 gast==0.4.0               # via tensorflow
 gcsfs==0.2.3              # via -r -
 google-api-core[grpc,grpcgcp]==1.31.5  # via google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-core, google-cloud-datastore, google-cloud-dlp, google-cloud-language, google-cloud-pubsub, google-cloud-recommendations-ai, google-cloud-spanner, google-cloud-videointelligence, google-cloud-vision
