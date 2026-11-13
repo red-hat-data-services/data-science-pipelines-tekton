@@ -16,7 +16,7 @@ docutils==0.16
     # via awscli
 jmespath==1.0.1
     # via botocore
-pyasn1==0.6.0
+pyasn1==0.6.5
     # via rsa
 python-dateutil==2.9.0.post0
     # via botocore

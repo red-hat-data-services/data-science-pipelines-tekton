@@ -103,7 +103,7 @@ protobuf==3.19.1          # via apache-beam, google-api-core, google-cloud-bigqu
 ptyprocess==0.7.0         # via pexpect, terminado
 pyarrow==2.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
-pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
+pyasn1==0.6.5             # via oauth2client, pyasn1-modules, rsa
 pycparser==2.21           # via cffi
 pydot==1.4.2              # via apache-beam
 pygments==2.10.0          # via ipython, nbconvert
