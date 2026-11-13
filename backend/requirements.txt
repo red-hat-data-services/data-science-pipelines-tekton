@@ -171,7 +171,7 @@ wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 websocket-client==1.2.3   # via docker, kubernetes
 werkzeug==2.0.2           # via tensorboard
-wheel==0.37.1             # via astunparse, strip-hints, tensorboard, tensorflow
+wheel==0.38.1             # via astunparse, strip-hints, tensorboard, tensorflow
 widgetsnbextension==3.5.2  # via ipywidgets
 wrapt==1.12.1             # via deprecated, tensorflow
 zipp==3.6.0               # via importlib-metadata
