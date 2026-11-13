@@ -8,5 +8,5 @@ setup(
     author_email='managed-open-data-hub@redhat.com',
     description='Artifact Manager for Data Science Pipelines on RHODS',
     packages=find_packages(),
-    install_requires=['awscli >= 1.25.78']
+    install_requires=['awscli >=1.45.28']
 )
