@@ -75,7 +75,7 @@ ipython-genutils==0.2.0   # via ipywidgets, nbformat, notebook
 ipython==7.30.1           # via ipykernel, ipywidgets, keras-tuner, tensorflow-model-analysis
 ipywidgets==7.6.5         # via tensorflow-model-analysis
 jedi==0.18.1              # via ipython
-jinja2==3.0.3             # via ml-pipelines-sdk, nbconvert, notebook, tfx
+jinja2==3.1.6             # via ml-pipelines-sdk, nbconvert, notebook, tfx
 joblib==0.14.1            # via tensorflow-data-validation
 jsonschema==3.2.0         # via kfp, nbformat
 jupyter-client==7.1.0     # via ipykernel, nbclient, notebook
