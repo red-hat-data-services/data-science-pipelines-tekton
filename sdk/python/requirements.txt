@@ -59,7 +59,7 @@ google-resumable-media==1.2.0
     # via google-cloud-storage
 googleapis-common-protos==1.52.0
     # via google-api-core
-httplib2==0.19.1
+httplib2==0.32.0
     # via
     #   google-api-python-client
     #   google-auth-httplib2
