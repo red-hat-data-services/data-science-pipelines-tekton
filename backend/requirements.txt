@@ -36,7 +36,7 @@ fastavro==1.4.7           # via apache-beam
 fasteners==0.16.3         # via google-apitools
 fire==0.4.0               # via kfp
 flatbuffers==1.12         # via tensorflow
-future==0.18.2            # via apache-beam
+future==0.18.3            # via apache-beam
 gast==0.4.0               # via tensorflow
 google-api-core[grpc,grpcgcp]==1.31.5  # via google-api-python-client, google-cloud-aiplatform, google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-core, google-cloud-datastore, google-cloud-dlp, google-cloud-language, google-cloud-pubsub, google-cloud-recommendations-ai, google-cloud-spanner, google-cloud-storage, google-cloud-videointelligence, google-cloud-vision
 google-api-python-client==1.12.8  # via kfp, ml-pipelines-sdk, tfx, tfx-bsl
