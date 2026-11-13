@@ -125,7 +125,7 @@ pyarrow==5.0.0            # via apache-beam, tensorflow-data-validation, tensorf
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
 pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
 pycparser==2.21           # via cffi
-pydantic==1.8.2           # via kfp
+pydantic==1.10.13           # via kfp
 pydot==1.4.2              # via apache-beam, tensorflow-transform
 pygments==2.10.0          # via ipython, jupyterlab-pygments, nbconvert
 pymongo==3.12.3           # via apache-beam
