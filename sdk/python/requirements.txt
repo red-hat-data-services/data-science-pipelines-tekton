@@ -112,7 +112,7 @@ pyyaml==5.4.1
     # via
     #   kfp
     #   kubernetes
-requests==2.25.1
+requests==2.33.0
     # via
     #   google-api-core
     #   google-cloud-storage
