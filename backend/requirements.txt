@@ -13,7 +13,7 @@ astunparse==1.6.3         # via tensorflow
 attrs==20.3.0             # via jsonschema, ml-metadata, tfx
 avro-python3==1.9.2.1     # via apache-beam
 backcall==0.2.0           # via ipython
-bleach==4.1.0             # via nbconvert
+bleach==6.4.0             # via nbconvert
 cached-property==1.5.2    # via h5py
 cachetools==4.2.4         # via apache-beam, google-auth
 certifi==2021.10.8        # via kfp-server-api, kubernetes, requests
