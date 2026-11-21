@@ -166,7 +166,7 @@ typer==0.4.0              # via kfp
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, kfp, libcst, pydantic, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
 uritemplate==3.0.1        # via google-api-python-client, kfp
-urllib3==1.26.7           # via kfp-server-api, kubernetes, requests
+urllib3==2.8.0           # via kfp-server-api, kubernetes, requests
 wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 websocket-client==1.2.3   # via docker, kubernetes
