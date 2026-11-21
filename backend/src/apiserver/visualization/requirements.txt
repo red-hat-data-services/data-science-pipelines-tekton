@@ -101,7 +101,7 @@ prompt-toolkit==3.0.24    # via ipython
 proto-plus==1.19.8        # via google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-recommendations-ai
 protobuf==3.19.1          # via apache-beam, google-api-core, google-cloud-bigquery, googleapis-common-protos, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tfx-bsl
 ptyprocess==0.7.0         # via pexpect, terminado
-pyarrow==2.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
+pyarrow==14.0.1            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
 pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
 pycparser==2.21           # via cffi
