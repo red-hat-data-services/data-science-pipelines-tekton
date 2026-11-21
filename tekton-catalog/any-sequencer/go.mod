@@ -28,7 +28,7 @@ require (
 	golang.org/x/tools v0.0.0-20201211185031-d93e913c1a58 // indirect
 	google.golang.org/api v0.36.0 // indirect
 	google.golang.org/genproto v0.0.0-20201211151036-40ec1c210f7a // indirect
-	google.golang.org/grpc v1.34.0 // indirect
+	google.golang.org/grpc v1.83.1 // indirect
 	k8s.io/api v0.19.0-alpha.1 // indirect
 	k8s.io/apimachinery v0.19.0
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
