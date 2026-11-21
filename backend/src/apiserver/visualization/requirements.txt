@@ -86,7 +86,7 @@ nest-asyncio==1.5.4       # via notebook
 notebook==6.4.6           # via widgetsnbextension
 numpy==1.19.5             # via apache-beam, bokeh, h5py, keras-preprocessing, opt-einsum, pandas, pyarrow, scikit-learn, scipy, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
 oauth2client==4.1.3       # via apache-beam, google-apitools
-oauthlib==3.1.1           # via requests-oauthlib
+oauthlib==4.0.0           # via requests-oauthlib
 opt-einsum==3.3.0         # via tensorflow
 orjson==3.6.1             # via apache-beam
 packaging==21.3           # via bleach, bokeh, google-api-core, google-cloud-bigquery
