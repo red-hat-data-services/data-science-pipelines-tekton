@@ -79,7 +79,7 @@ jinja2==3.0.3             # via ml-pipelines-sdk, nbconvert, notebook, tfx
 joblib==0.14.1            # via tensorflow-data-validation
 jsonschema==3.2.0         # via kfp, nbformat
 jupyter-client==7.1.0     # via ipykernel, nbclient, notebook
-jupyter-core==4.9.1       # via jupyter-client, nbconvert, nbformat, notebook
+jupyter-core==5.8.1       # via jupyter-client, nbconvert, nbformat, notebook
 jupyterlab-pygments==0.1.2  # via nbconvert
 jupyterlab-widgets==1.0.2  # via ipywidgets
 keras-preprocessing==1.1.2  # via tensorflow
