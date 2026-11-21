@@ -68,7 +68,7 @@ grpcio==1.43.0            # via apache-beam, google-api-core, google-cloud-bigqu
 h5py==3.1.0               # via tensorflow
 hdfs==2.6.0               # via apache-beam
 httplib2==0.19.1          # via apache-beam, google-api-python-client, google-apitools, google-auth-httplib2, oauth2client
-idna==3.3                 # via requests
+idna==3.15                 # via requests
 importlib-metadata==4.10.0  # via argcomplete, ipykernel, jsonschema, markdown
 ipykernel==6.6.0          # via ipywidgets, notebook
 ipython-genutils==0.2.0   # via ipywidgets, nbformat, notebook
