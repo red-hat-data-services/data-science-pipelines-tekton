@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-awscli==1.33.1
+awscli==1.45.28
     # via -r requirements.in
 botocore==1.34.119
     # via
